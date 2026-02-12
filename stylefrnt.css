@@ -3,5 +3,79 @@
 .txt{
     font-family: "Borel", cursive;
    font-weight: 1000;
-   font-size: 45px;
+   font-size: 55px;
+}
+.txt-pts h1{
+    font-family: "Borel", cursive;
+   font-weight: 1000;
+   font-size: 42px;
+}
+.abts h1{
+     font-family: "Borel", cursive;
+   font-weight: 1000;
+   font-size: 42px;
+   margin-bottom: -10px;
+}
+.ani-abt h2{
+    font-family: "Borel", cursive;
+   font-weight: 1000;
+   font-size: 35px;
+   margin-left: 75px;
+   margin-top: 20px;
+}
+.hrvt1{
+   font-family: "Borel", cursive;
+   font-weight: 1000;
+   font-size: 70px;
+   margin-left: 165px;
+   margin-top: 40px;
+}
+.hrvt2{
+   font-family: "Borel", cursive;
+   font-weight: 1000;
+   font-size: 70px;
+   margin-left: 205px;
+   margin-top: -40px;
+}
+.top2{
+    font-family: "Borel", cursive;
+   font-weight: 1000;
+   font-size: 43px;
+   margin-bottom: -10px;
+}
+.pts-lt1{
+    margin-top: 20px;
+    font-family: "Borel", cursive;
+    font-weight: 1000;
+    font-size: 47px;
+}
+.its-txt1{
+    margin-top: 20px;
+    font-family: "Borel", cursive;
+    font-weight: 1000;
+    font-size: 40px;
+}
+.txt-vst1{
+    font-family: "Borel", cursive;
+    font-weight: 1000;
+    font-size: 35px;
+    margin-top: -15px;
+}
+.txt-vist{
+   margin-top: -20px;
+   font-family: "Borel", cursive;
+    font-weight: 1000;
+    font-size: 35px;
+}
+.faq-txt2{
+    font-family: "Borel", cursive;
+    font-weight: 1000;
+    font-size: 35px;
+    margin-bottom: -13px;
+}
+.txt-faq{
+    font-family: "Borel", cursive;
+    font-weight: 1000;
+    font-size: 17px;
+    margin-left: -25px;
 }
